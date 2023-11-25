@@ -1,0 +1,5 @@
+src/app/code/core/Mage/GoogleAnalytics/                                 app/code/core/Mage/GoogleAnalytics/
+src/app/design/frontend/base/default/layout/googleanalytics.xml         app/design/frontend/base/default/layout/cms.xml
+src/app/design/frontend/base/default/template/googleanalytics/          app/design/frontend/base/default/template/cms/
+src/app/etc/modules/Mage_GoogleAnalytics.xml                            app/etc/modules/Mage_GoogleAnalytics.xml
+src/app/locale/en_US/Mage_GoogleAnalytics.csv                           app/locale/en_US/Mage_GoogleAnalytics.csv
